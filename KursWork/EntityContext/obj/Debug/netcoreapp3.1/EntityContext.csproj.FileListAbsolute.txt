@@ -1,0 +1,14 @@
+F:\stud\KursWorkTry2\EntityContext\bin\Debug\netcoreapp3.1\EntityContext.exe
+F:\stud\KursWorkTry2\EntityContext\bin\Debug\netcoreapp3.1\EntityContext.deps.json
+F:\stud\KursWorkTry2\EntityContext\bin\Debug\netcoreapp3.1\EntityContext.runtimeconfig.json
+F:\stud\KursWorkTry2\EntityContext\bin\Debug\netcoreapp3.1\EntityContext.runtimeconfig.dev.json
+F:\stud\KursWorkTry2\EntityContext\bin\Debug\netcoreapp3.1\EntityContext.dll
+F:\stud\KursWorkTry2\EntityContext\bin\Debug\netcoreapp3.1\EntityContext.pdb
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.AssemblyInfoInputs.cache
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.AssemblyInfo.cs
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.csproj.CoreCompileInputs.cache
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.dll
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.pdb
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.genruntimeconfig.cache
+F:\stud\KursWorkTry2\EntityContext\obj\Debug\netcoreapp3.1\EntityContext.csproj.AssemblyReference.cache

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KursWork/1.0.0": {
+        "dependencies": {
+          "EntityContext": "1.0.0",
+          "EntityService": "1.0.0"
+        },
+        "runtime": {
+          "KursWork.dll": {}
+        }
+      },
+      "EntityContext/1.0.0": {
+        "runtime": {
+          "EntityContext.dll": {}
+        }
+      },
+      "EntityService/1.0.0": {
+        "dependencies": {
+          "EntityContext": "1.0.0"
+        },
+        "runtime": {
+          "EntityService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KursWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
